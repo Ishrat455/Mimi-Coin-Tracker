@@ -1,2 +1,2 @@
 # Mimi-Coin-Tracker
-Money managing application
+Money managing application test1
